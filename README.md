@@ -72,7 +72,7 @@ Check pods:
 
 kubectl get pods
 
-![Minikube](https://github.com/SPaital98/kubernetes-nginx-beginner-project/blob/41bf82ceaf9b203c084f65c7f717d8675a76d19b/get%20pods.PNG)
+![Pods Status](https://github.com/SPaital98/kubernetes-nginx-beginner-project/blob/41bf82ceaf9b203c084f65c7f717d8675a76d19b/get%20pods.PNG)
 
 Get detailed pod info:
 
@@ -139,6 +139,8 @@ kubectl set image deployment/my-nginx nginx=nginx:1.25
 Check rollout status:
 
 kubectl rollout status deployment/my-nginx
+
+![Rollout Status](https://github.com/SPaital98/kubernetes-nginx-beginner-project/blob/9f1d32b6da5c2fb2af6e6e9ef46bbdd60601a35b/till%20roll%20out.PNG)
 
 ✅ Kubernetes updates pods one by one without downtime.
 
