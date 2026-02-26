@@ -40,6 +40,10 @@ Verify node:
 
 kubectl get nodes
 
+## Minikube Running
+
+![Minikube Status]([screenshots/minikube-status.png](https://github.com/SPaital98/kubernetes-nginx-beginner-project/blob/096d2c49cc90c78091622c8d9214698ece7d275f/minikube%20status1.PNG))
+
 ✅ This starts the Kubernetes control plane locally.
 
 2️⃣ Create Deployment
