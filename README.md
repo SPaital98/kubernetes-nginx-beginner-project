@@ -72,6 +72,8 @@ Check pods:
 
 kubectl get pods
 
+![Minikube](https://github.com/SPaital98/kubernetes-nginx-beginner-project/blob/41bf82ceaf9b203c084f65c7f717d8675a76d19b/get%20pods.PNG)
+
 Get detailed pod info:
 
 kubectl get pods -o wide
