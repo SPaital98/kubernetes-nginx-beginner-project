@@ -42,7 +42,7 @@ kubectl get nodes
 
 ## Minikube Running
 
-![Minikube Status]([screenshots/minikube-status.png](https://github.com/SPaital98/kubernetes-nginx-beginner-project/blob/096d2c49cc90c78091622c8d9214698ece7d275f/minikube%20status1.PNG))
+![Minikube Status](https://github.com/SPaital98/kubernetes-nginx-beginner-project/blob/bcde2bf35fe0981a344e8df4acde40a3e3e0cda3/minikube%20status1.PNG)
 
 ✅ This starts the Kubernetes control plane locally.
 
